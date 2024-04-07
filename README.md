@@ -1,7 +1,7 @@
 # Company-Project
 보안상 회사 소스코드를 올릴 수 없어 사이트 주소를 남깁니다. 
-[구글 웹싸이트 가기](https://www.lawsdaq.com){: target="_blank"}
-- https://www.lawsdaq.com)
+[로스닥 페이지 가기](https://www.lawsdaq.com){: target="_blank"}
+
 
 <a href="https://google.com" target="_blank">새창에서 열려랴 얍</a>
 
