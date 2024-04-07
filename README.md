@@ -3,6 +3,9 @@
 [구글 웹싸이트 가기](https://www.lawsdaq.com){: target="_blank"}
 - https://www.lawsdaq.com)
 
+- <a href="https://google.com" target="_blank">새창에서 열려랴 얍</a>
+
+
 ## - 로스닥 2022.06 ~ 2024.04 1년 11개월
  #### 프로젝트 내용
       - AI가 로스닥과 구글의 데이터를 기반으로 고객의 사건 내용과 유사한 내용의 승소사례/판례 및 법률 정보를 선별 분석 후 제공하여
