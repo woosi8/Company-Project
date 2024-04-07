@@ -1,5 +1,7 @@
 # Company-Project
-보안상 회사 소스코드를 올릴 수 없어 사이트 주소를 남깁니다.  - https://www.lawsdaq.com)
+보안상 회사 소스코드를 올릴 수 없어 사이트 주소를 남깁니다. 
+[구글 웹싸이트 가기](https://www.lawsdaq.com){: target="_blank"}
+- https://www.lawsdaq.com)
 
 ## - 로스닥 2022.06 ~ 2024.04 1년 11개월
  #### 프로젝트 내용
