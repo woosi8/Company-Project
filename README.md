@@ -3,7 +3,7 @@
 [구글 웹싸이트 가기](https://www.lawsdaq.com){: target="_blank"}
 - https://www.lawsdaq.com)
 
-`` - <a href="https://google.com" target="_blank">새창에서 열려랴 얍</a>  ``
+<a href="https://google.com" target="_blank">새창에서 열려랴 얍</a>
 
 
 ## - 로스닥 2022.06 ~ 2024.04 1년 11개월
